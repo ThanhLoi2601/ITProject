@@ -1,0 +1,12 @@
+E:\STUDY\HK1_23_24\DoAnCNTT\ProjectDoAnCNTT\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+E:\STUDY\HK1_23_24\DoAnCNTT\ProjectDoAnCNTT\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe
+E:\STUDY\HK1_23_24\DoAnCNTT\ProjectDoAnCNTT\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.pdb
+E:\STUDY\HK1_23_24\DoAnCNTT\ProjectDoAnCNTT\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.AssemblyReference.cache
+E:\STUDY\HK1_23_24\DoAnCNTT\ProjectDoAnCNTT\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.SuggestedBindingRedirects.cache
+E:\STUDY\HK1_23_24\DoAnCNTT\ProjectDoAnCNTT\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.FGame.resources
+E:\STUDY\HK1_23_24\DoAnCNTT\ProjectDoAnCNTT\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+E:\STUDY\HK1_23_24\DoAnCNTT\ProjectDoAnCNTT\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+E:\STUDY\HK1_23_24\DoAnCNTT\ProjectDoAnCNTT\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.CoreCompileInputs.cache
+E:\STUDY\HK1_23_24\DoAnCNTT\ProjectDoAnCNTT\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.exe
+E:\STUDY\HK1_23_24\DoAnCNTT\ProjectDoAnCNTT\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.pdb
+E:\STUDY\HK1_23_24\DoAnCNTT\ProjectDoAnCNTT\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.MessageBoxGame.resources
